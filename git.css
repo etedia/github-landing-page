@@ -1,0 +1,322 @@
+
+*{
+  font-family: #FFFFFF;
+}
+
+
+.hearder{
+  color: white;
+  background-color: rgb(5, 10, 15);
+  height: 50px;
+ padding: 0px 30px 0px 30px;
+ margin-bottom: 30px;
+}
+.hearder input{
+  height: 25px;
+  width: 300px;
+ margin-top:  10px;
+ position: absolute;
+ 
+}
+.topleft{
+  color: white;
+}
+.fa-pen-square{
+  position:absolute;
+  margin-left: 360px;
+top: 25px;
+}
+
+.navbar{
+  font-size: 15px;
+  margin-left: 330px;
+ margin-top: -30px;
+}
+
+.navbar li{
+   display: inline; 
+}
+
+ ul.navbar > li > a {
+    text-decoration: none;
+    padding: 10px;
+    color:white
+ }
+
+
+
+.topright{
+  float: right;
+  margin-top: -30px;
+color: white;
+}
+
+.fa-bell{
+  margin-right: 20px;
+}
+.secondhearder{
+  margin-bottom: 100px;
+}
+
+
+.fa-folder-open{
+margin-top: -100px;
+ 
+}
+  .row {
+    display: flex;
+    /* width: 75%; */
+    margin-left: 400px;
+    margin-right: 150px;
+    margin-bottom: 10px;
+   
+    
+  }
+  
+  .column {
+    
+    margin-top:-40px;
+    margin-left: 10px;
+    padding:7em 2em;
+    font-size: 13px;
+  }
+  .column p{
+    color: red;
+    margin-top: -20px;
+    width: 150px;
+  }
+
+  .sideeleft{
+    float: left;
+    margin-top: -200px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    line-height: 40px;
+  }
+   
+  
+  #FirstName{
+    width: 310px;
+    height: 25px;
+  }
+#pix{
+  border-radius: 50%;
+}
+
+.sideeleft input{
+  width: 300px;
+  height: 25px;
+  margin-left: 10px;
+  border-radius: 8px;
+ 
+}
+.sideeleft button{
+  border-radius: 8px;
+  width: 70px;
+  height: 30px;
+  margin-top: 10px;
+  
+}
+#btn{
+  background-color: green;
+  border:none;
+}
+#btn2{
+  background-color: lavender;
+  border: lavender;
+}
+
+.middle1{
+  margin-top: -90px;
+  margin-left: 420px;
+  padding: 20px;
+}
+.middle1 ::placeholder{
+ padding-left: 10px;
+}
+.fa-angle-down{
+ margin-left: 10px;
+}
+
+.fa-mobile-alt{
+  margin-right: 10px;
+}
+.middle1 input{
+  width: 300px;
+  height: 25px;
+  font-size: 18px;
+  border-radius: 8px;
+}
+.middle1 button{
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 8px;
+}
+
+#btnright{
+  background-color: green;
+  padding-left: 10px;
+}
+
+.landingpage{
+margin-left:460px;
+}
+
+.land1{
+border-bottom: 1px solid rgb(192, 186, 186);
+border-top:  1px solid black;
+display: flow-root;
+/* position: relative; */
+height: 140px;
+line-height: 30px;
+
+}
+.land1 span{
+  color: blue;
+  font-size: 20px;
+}
+.public{
+  margin-left: 160px;
+margin-top: -40px;
+position: absolute;
+border-radius: 10px;
+
+}
+.star{
+  float: right;
+  margin-right: 20px;
+  margin-top: -70px;
+  height: 30px;
+  width: 70px;
+  border-bottom: 1px solid blue;
+  border-radius: 8px;
+}
+
+.land2{
+  border-bottom: 1px solid black;
+  border-top:  1px solid black;
+  display: flow-root;
+  height: 140px;
+  line-height: 30px;
+  
+}
+
+.land2 span{
+  color: blue;
+  font-size: 20px;
+}
+.public2{
+  margin-left: 180px;
+margin-top: -40px;
+position: absolute;
+border-radius: 10px;
+
+}
+
+
+.land3{
+  border-bottom: 1px solid black;
+  border-top:  1px solid black;
+  display: flow-root;
+  height: 140px;
+  line-height: 30px;
+}
+
+.public3{
+  margin-left: 220px;
+margin-top: -40px;
+position: absolute;
+border-radius: 10px;
+
+}
+
+.land3 span{
+  color: blue;
+  font-size: 20px;
+}
+
+
+.land4{
+  border-bottom: 1px solid black;
+  border-top:  1px solid black;
+  display: flow-root;
+  height: 140px;
+  line-height: 30px;
+}
+
+.public4{
+  margin-left: 180px;
+margin-top: -40px;
+position: absolute;
+border-radius: 10px;
+
+}
+
+.land4 span{
+  color: blue;
+  font-size: 20px;
+}
+
+.land5{
+  border-bottom: 1px solid black;
+  border-top:  1px solid black;
+  display: flow-root;
+  height: 140px;
+  line-height: 30px;
+}
+
+.land5 span{
+  color: blue;
+  font-size: 20px;
+}
+
+.public5{
+  margin-left: 200px;
+margin-top: -40px;
+position: absolute;
+border-radius: 10px;
+
+}
+
+
+.land6{
+  border-bottom: 1px solid black;
+  border-top:  1px solid black;
+  display: flow-root;
+  height: 140px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.public6{
+  margin-left: 180px;
+margin-top: -40px;
+position: absolute;
+border-radius: 10px;
+
+}
+
+.land6 span{
+  color: blue;
+  font-size: 20px;
+}
+
+.bottom{
+  display: flex;
+  border-top: 1px solid black;
+}
+.gitbottom{
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.list{
+  display: flex;
+}
+.list li{
+  padding: 20px;
+  color: blue;
+  list-style: none;
+}
